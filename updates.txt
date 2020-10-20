@@ -1,1 +1,15 @@
-This is prelease
+;aiu;
+
+[Update]
+Name = WhatsappAutomation
+ProductVersion = 1.0.1
+URL = https://github.com/wasimakh2/WhatsappAutomationRelease/raw/main/WhatsappAutomation%201.0.1.msi
+Size = 18080256
+MD5 = 9ab6754ecedc975ef3b0314689829b87
+ServerFileName = WhatsappAutomation 1.0.1.msi
+RegistryKey = HKUD\Software\W S Technologies\WhatsappAutomation\Version
+Version = 1.0.1
+Description = Version 1.0.1 is available
+Feature = New Feature added 
+Enhancement = New Ehnhancment added 
+BugFix = Bug fixed
